@@ -1,9 +1,11 @@
 * {
     box-sizing: border-box;
 }
+
 html{
     height: auto;
 }
+
 body{
     margin: 8px 0;
     display: flex;
