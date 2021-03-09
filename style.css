@@ -3,14 +3,14 @@
 }
 
 html{
-    height: auto;
+
 }
 
 body{
     margin: 8px 0;
     display: flex;
     background-image: url('bcwall.jpeg');
-    height: auto;
+
 }
 
 #leftDiv{
